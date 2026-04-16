@@ -275,4 +275,8 @@ Useful as an internal treasury operations dashboard, a finance workflow demo, a 
 
 ## License
 
-No formal license file included. Add one before open-sourcing or commercial distribution.
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software, including for commercial use, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
+
+See the [LICENSE](LICENSE) file for more details.
